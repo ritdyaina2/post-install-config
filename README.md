@@ -29,8 +29,9 @@ This tutorial outlines the post-install configuration of the open-source help de
   Step 1 – osTicket Setup Page
   
 The initial installer screen that appears when osTicket is launched in the browser. This confirms that the setup process has successfully started.
-  
-![image](https://github.com/user-attachments/assets/1fb7d169-c89e-48f7-929c-57b393dde4e7)
+
+  ![tik](https://github.com/user-attachments/assets/7610f337-42e2-4cde-9774-1c5df25c398e)
+
 
 </p>
 <p>
@@ -38,7 +39,7 @@ The initial installer screen that appears when osTicket is launched in the brows
   
 Here I entered the database information to connect osTicket. This step is needed so osTicket can store all the ticket data.
 
-![image](https://github.com/user-attachments/assets/54b97668-3158-4f56-abe1-ee9edb6071e6)
+![sql](https://github.com/user-attachments/assets/21224786-eefc-4e07-8d59-7aad88f41ddf)
 
 </p>
 <br />
@@ -49,22 +50,19 @@ Step 3 – Admin Account Setup
   
 In this step, I created my admin account by entering my name, email, and password. This is how I’ll log into the osTicket system.
 
-![image](https://github.com/user-attachments/assets/1b9e49a4-4e7d-4d30-9f28-c4d03879e9ef)
+![Screenshot 2025-06-12 155544](https://github.com/user-attachments/assets/a503e611-f23c-488a-94ba-d0e0a7a701d8)
 
 Step 4 – Installation Complete
 
 This screen shows that osTicket was successfully installed. Everything is set up and ready to go.
 
-![image](https://github.com/user-attachments/assets/40c9d5c7-de1c-473d-afa9-23bb5b5d8ace)
-
+![Screenshot 2025-06-12 155818](https://github.com/user-attachments/assets/825cb7e6-e4dc-4a34-9405-a7ec0831db6e)
 
 
 Step 5 – Logged into osTicket Dashboard
 
 Now I’m logged into the osTicket dashboard. From here, I can start using the system and manage support tickets.
 
-![image](https://github.com/user-attachments/assets/d12ccbdf-0890-474a-b6af-68b6ad43c399)
-
-
+![Screenshot 2025-06-12 160154](https://github.com/user-attachments/assets/d6e598a1-e97e-4c7a-9542-a4abe2494b95)
 
 <br />
