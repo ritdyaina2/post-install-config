@@ -97,11 +97,12 @@ Add:
 
 
 STEP 5: Create Teams
-Admin Panel → Agents → Teams
+
+- Admin Panel → Agents → Teams
  Add:
 - Online Banking (pull agents from different departments)
 
-<img width="420" height="73" alt="image" src="https://github.com/user-attachments/assets/378f8e1e-b891-4387-ae40-2cfad70022c5" />
+<img width="420" height="73" alt="image" src="https://github.com/user-attachments/assets/378f8e1e-b891-4387-ae40-2cfad70022c5" /><
 
 <img width="460" height="379" alt="image" src="https://github.com/user-attachments/assets/c440471d-086d-4c44-8317-244fb1688066" /><
 
@@ -111,22 +112,31 @@ Admin Panel → Agents → Teams
 
 <img width="298" height="48" alt="image" src="https://github.com/user-attachments/assets/5f72aa27-38e3-4fd6-bd08-cd47709984e8" /><
 
-<img width="394" height="324" alt="Screenshot 2025-07-17 155159" src="https://github.com/user-attachments/assets/76e9cb62-6f28-44f6-b5de-a4d2d2499d15" />
+<img width="394" height="324" alt="Screenshot 2025-07-17 155159" src="https://github.com/user-attachments/assets/76e9cb62-6f28-44f6-b5de-a4d2d2499d15" />-
 
 
 
  STEP 6: Allow Anyone to Create Tickets
 - Admin Panel → Settings → User Settings
 - UNcheck: “Require registration and login to create tickets”
+  
+<img width="420" height="73" alt="image" src="https://github.com/user-attachments/assets/378f8e1e-b891-4387-ae40-2cfad70022c5" /><
 
+<img width="430" height="366" alt="image" src="https://github.com/user-attachments/assets/1518d90c-955d-44b8-9c96-bc8a5b6aff07" />
 
 
 STEP 7: Add Agents (Support Staff)
+
 Admin Panel → Agents → Add New
+
  Add:
 - Jane (Dept: SysAdmins)
 - John (Dept: Support)
 Assign them roles like Supreme Admin
+
+<img width="420" height="73" alt="image" src="https://github.com/user-attachments/assets/378f8e1e-b891-4387-ae40-2cfad70022c5" /><
+
+<img width="460" height="124" alt="image" src="https://github.com/user-attachments/assets/31414990-fce3-4835-9daa-1ede20a38d71" />
 
 
 STEP 8: Add Users (Customers)
