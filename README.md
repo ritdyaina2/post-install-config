@@ -17,52 +17,116 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- osTicket setup page is opened in the browser
-- MySQL database connection info is entered
-- Admin account info is filled out
-- Installation is completed successfully
-- Logged into the osTicket dashboard
+- Secure and Customize Agent & User Access
+- Define Ticket Visibility and Permissions
+- Configure SLAs (Service Level Agreements)
+- Set Up Help Topics
+- Finalize System Behavior
+
 
 <h2>Configuration Steps</h2>
 
 <p>
-  Step 1 – osTicket Setup Page
+STEP 1: Access the Admin and Agent Panels
   
-The initial installer screen that appears when osTicket is launched in the browser. This confirms that the setup process has successfully started.
+- Admin Login URL:
+http://localhost/osTicket/scp/login.php
 
-  ![tik](https://github.com/user-attachments/assets/7610f337-42e2-4cde-9774-1c5df25c398e)
+- User Ticket Portal URL:
+http://localhost/osTicket  
+
+<img width="400" height="339" alt="59" src="https://github.com/user-attachments/assets/211646c8-7011-4074-b174-6c71910bb8ee" />
+
+<img width="400" height="231" alt="60" src="https://github.com/user-attachments/assets/92a8d655-aef4-4389-b3e7-2504685fe004" />
 
 
 </p>
 <p>
-  Step 2 – Database Setup
+ STEP 2: Agent Panel vs Admin Panel
   
-Here I entered the database information to connect osTicket. This step is needed so osTicket can store all the ticket data.
+  - Admin Panel = Full control of osTicket
+  - Agent Panel = Used by support agents to manage tickets
+  
+<img width="400" height="482" alt="61" src="https://github.com/user-attachments/assets/5d54ced1-61fe-4bab-878d-300b5d270a32" />
 
-![sql](https://github.com/user-attachments/assets/21224786-eefc-4e07-8d59-7aad88f41ddf)
+<img width="400" height="168" alt="62" src="https://github.com/user-attachments/assets/5160fa5f-10c2-4103-97f2-4472d3fa53f5" />
+
 
 </p>
 <br />
 
 </p>
 <p>
-Step 3 – Admin Account Setup
   
-In this step, I created my admin account by entering my name, email, and password. This is how I’ll log into the osTicket system.
+STEP 3: Configure Roles
+Admin Panel → Agents → Roles
+ - Click Add New Role
+ - Name it Supreme Admin
 
-![Screenshot 2025-06-12 155544](https://github.com/user-attachments/assets/a503e611-f23c-488a-94ba-d0e0a7a701d8)
+<img width="420" height="73" alt="image" src="https://github.com/user-attachments/assets/378f8e1e-b891-4387-ae40-2cfad70022c5" />
 
-Step 4 – Installation Complete
+<img width="562" height="132" alt="image" src="https://github.com/user-attachments/assets/b7ecc17d-7115-4934-b68c-acd47d9a90ee" />
 
-This screen shows that osTicket was successfully installed. Everything is set up and ready to go.
+<img width="460" height="109" alt="image" src="https://github.com/user-attachments/assets/22319dd4-8f79-4f2f-bd35-225a20b3e310" />
 
-![Screenshot 2025-06-12 155818](https://github.com/user-attachments/assets/825cb7e6-e4dc-4a34-9405-a7ec0831db6e)
+<img width="322" height="165" alt="image" src="https://github.com/user-attachments/assets/b52f72e0-0b39-4d63-a32e-fc70b3b609a4" />
+
+<img width="430" height="344" alt="image" src="https://github.com/user-attachments/assets/c7f41a0c-b43f-4577-bdb8-14b021834650" />
+
+<img width="350" height="211" alt="image" src="https://github.com/user-attachments/assets/556815ac-872f-4038-8691-870c263eba66" />
+
+<img width="420" height="107" alt="image" src="https://github.com/user-attachments/assets/8ea6f715-b51d-485e-b5e1-a81d8df0986b" />
 
 
-Step 5 – Logged into osTicket Dashboard
+STEP 4: Create Departments
+Admin Panel → Agents → Departments
+Add:
+- SysAdmins
+- Support
 
-Now I’m logged into the osTicket dashboard. From here, I can start using the system and manage support tickets.
 
-![Screenshot 2025-06-12 160154](https://github.com/user-attachments/assets/d6e598a1-e97e-4c7a-9542-a4abe2494b95)
+STEP 5: Create Teams
+Admin Panel → Agents → Teams
+ Add:
+- Online Banking (pull agents from different departments)
+  
 
+
+ STEP 6: Allow Anyone to Create Tickets
+- Admin Panel → Settings → User Settings
+- UNcheck: “Require registration and login to create tickets”
+
+STEP 7: Add Agents (Support Staff)
+Admin Panel → Agents → Add New
+ Add:
+- Jane (Dept: SysAdmins)
+- John (Dept: Support)
+Assign them roles like Supreme Admin
+
+
+STEP 8: Add Users (Customers)
+Agent Panel → Users → Add New
+ Add:
+- Karen
+- Ken
+
+
+ STEP 9: Configure SLA (Service Level Agreements)
+Admin Panel → Manage → SLA
+ Add:
+- Sev-A (1 hr, 24/7)
+- Sev-B (4 hrs, 24/7)
+- Sev-C (8 hrs, Business Hours)
+
+
+
+ STEP 10: Create Help Topics
+Admin Panel → Manage → Help Topics
+ Add:
+- Business Critical Outage
+- Personal Computer Issues
+- Equipment Request
+- Password Reset
+- Other
+- 
 <br />
