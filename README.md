@@ -136,7 +136,36 @@ Assign them roles like Supreme Admin
 
 <img width="420" height="73" alt="image" src="https://github.com/user-attachments/assets/378f8e1e-b891-4387-ae40-2cfad70022c5" /><
 
-<img width="460" height="124" alt="image" src="https://github.com/user-attachments/assets/31414990-fce3-4835-9daa-1ede20a38d71" />
+<img width="460" height="124" alt="image" src="https://github.com/user-attachments/assets/31414990-fce3-4835-9daa-1ede20a38d71" /><
+
+<img width="460" height="231" alt="image" src="https://github.com/user-attachments/assets/5f5abacb-cd7c-4002-89c3-dddfa6ef3c0a" /><
+
+<img width="462" height="285" alt="image" src="https://github.com/user-attachments/assets/cdf3fd36-c737-448b-bdf4-83389170e032" /><
+
+<img width="460" height="301" alt="image" src="https://github.com/user-attachments/assets/339a1ea5-3cd8-45a4-9206-71c9603837d8" /><
+
+<img width="430" height="251" alt="image" src="https://github.com/user-attachments/assets/d76bdd1c-345d-4cfd-8a9b-1419bd4cd26b" /><
+
+<img width="430" height="240" alt="image" src="https://github.com/user-attachments/assets/a1ba1d7e-9dc2-44a6-b6ff-3371fdecb02f" /><
+
+
+
+<img width="460" height="457" alt="image" src="https://github.com/user-attachments/assets/d505dca6-0e0f-41bc-b285-730ebac86a03" /><
+
+<img width="596" height="169" alt="image" src="https://github.com/user-attachments/assets/9bf009b7-2d8c-483c-8f34-7101882813d1" /><
+
+<img width="360" height="132" alt="image" src="https://github.com/user-attachments/assets/a3a2931d-bad9-4d1f-8584-8495782f7a44" /><
+
+<img width="430" height="202" alt="83" src="https://github.com/user-attachments/assets/88f3c805-c44c-4f7d-8c3b-49e6b69ad28a" /><
+
+
+<img width="460" height="243" alt="image" src="https://github.com/user-attachments/assets/49f9becf-1e5d-4780-a23a-a5d8d14ffb18" /><
+
+<img width="430" height="375" alt="image" src="https://github.com/user-attachments/assets/3cd5b778-5f0a-4418-bf68-dc74aabc1302" /><
+
+<img width="434" height="271" alt="image" src="https://github.com/user-attachments/assets/359d5ebe-5076-41d5-a361-472b739ed1d3" /><
+
+<img width="460" height="202" alt="image" src="https://github.com/user-attachments/assets/4b99fd7e-19b8-4a6e-86eb-d408784ff2c2" /><
 
 
 STEP 8: Add Users (Customers)
