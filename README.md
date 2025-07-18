@@ -174,6 +174,12 @@ Agent Panel → Users → Add New
 - Karen
 - Ken
 
+<img width="313" height="78" alt="image" src="https://github.com/user-attachments/assets/064187b6-4f0f-4830-a883-55db6bb317dc" /><
+
+<img width="460" height="147" alt="image" src="https://github.com/user-attachments/assets/f8543938-42ba-46fd-8b77-2e72faf5a3f6" /><
+
+<img width="430" height="251" alt="image" src="https://github.com/user-attachments/assets/0044b1b7-8aa5-4e4e-a0fc-b984586331b1" /><
+
 
  STEP 9: Configure SLA (Service Level Agreements)
 Admin Panel → Manage → SLA
@@ -181,7 +187,16 @@ Admin Panel → Manage → SLA
 - Sev-A (1 hr, 24/7)
 - Sev-B (4 hrs, 24/7)
 - Sev-C (8 hrs, Business Hours)
+  
+<img width="420" height="73" alt="image" src="https://github.com/user-attachments/assets/378f8e1e-b891-4387-ae40-2cfad70022c5" /><
 
+<img width="460" height="67" alt="image" src="https://github.com/user-attachments/assets/07f90729-9c0a-4974-81f5-f703b67f4f45" /><
+
+<img width="430" height="338" alt="image" src="https://github.com/user-attachments/assets/e1f71c9c-3c32-4cab-95eb-7199f9e91a77" /><
+
+<img width="430" height="333" alt="image" src="https://github.com/user-attachments/assets/8400bc1b-c929-4a68-963e-0d1a95a04603" /><
+
+<img width="430" height="337" alt="image" src="https://github.com/user-attachments/assets/4a64a8bb-3380-4d44-b277-352209fa544c" /><
 
 
  STEP 10: Create Help Topics
@@ -192,5 +207,19 @@ Admin Panel → Manage → Help Topics
 - Equipment Request
 - Password Reset
 - Other
-- 
+  
+ <img width="420" height="73" alt="image" src="https://github.com/user-attachments/assets/378f8e1e-b891-4387-ae40-2cfad70022c5" /><
+
+<img width="460" height="65" alt="image" src="https://github.com/user-attachments/assets/6ed10d62-4d2f-4634-b382-055c9d51b19e" /><
+
+<img width="430" height="327" alt="image" src="https://github.com/user-attachments/assets/23b8942d-d9b8-4c60-8095-e11e8eb0763d" /><
+
+<img width="430" height="313" alt="image" src="https://github.com/user-attachments/assets/ed951b11-5b1b-47d4-9293-31c69d7d6a4e" /><
+
+<img width="430" height="316" alt="image" src="https://github.com/user-attachments/assets/654633d7-572f-4c38-b8fa-a4b1e4c43f8c" /><
+
+<img width="430" height="307" alt="image" src="https://github.com/user-attachments/assets/aaae127d-d0e5-4f0c-891d-c33d8e0ae9d9" /><
+
+<img width="430" height="306" alt="image" src="https://github.com/user-attachments/assets/f4be6bc7-b2de-447a-8028-4e50b9505b74" />
+
 <br />
