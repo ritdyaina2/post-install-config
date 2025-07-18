@@ -220,6 +220,8 @@ Admin Panel → Manage → Help Topics
 
 <img width="430" height="307" alt="image" src="https://github.com/user-attachments/assets/aaae127d-d0e5-4f0c-891d-c33d8e0ae9d9" /><
 
-<img width="430" height="306" alt="image" src="https://github.com/user-attachments/assets/f4be6bc7-b2de-447a-8028-4e50b9505b74" />
+<img width="430" height="306" alt="image" src="https://github.com/user-attachments/assets/f4be6bc7-b2de-447a-8028-4e50b9505b74" /><
+
+<img width="430" height="250" alt="98" src="https://github.com/user-attachments/assets/2a03d736-ed87-4603-8565-97a955c729e2" /><
 
 <br />
